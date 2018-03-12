@@ -1,0 +1,11 @@
+C:\Source\Monty Hall\MontyHall\bin\Debug\netcoreapp2.0\MontyHall.deps.json
+C:\Source\Monty Hall\MontyHall\bin\Debug\netcoreapp2.0\MontyHall.runtimeconfig.json
+C:\Source\Monty Hall\MontyHall\bin\Debug\netcoreapp2.0\MontyHall.runtimeconfig.dev.json
+C:\Source\Monty Hall\MontyHall\bin\Debug\netcoreapp2.0\MontyHall.dll
+C:\Source\Monty Hall\MontyHall\bin\Debug\netcoreapp2.0\MontyHall.pdb
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.csprojResolveAssemblyReference.cache
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.csproj.CoreCompileInputs.cache
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.AssemblyInfoInputs.cache
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.AssemblyInfo.cs
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.dll
+C:\Source\Monty Hall\MontyHall\obj\Debug\netcoreapp2.0\MontyHall.pdb
